@@ -1,0 +1,4 @@
+repository "canHocamTest1/canHocamTest1@18966929278175@cloud"
+  path "/"
+    br "/main"
+    co "/main"
