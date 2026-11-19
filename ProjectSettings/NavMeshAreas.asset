@@ -11,10 +11,10 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
-  - name: 
+  - name: Camur
     cost: 1
-  - name: 
-    cost: 1
+  - name: SigSu
+    cost: 3
   - name: 
     cost: 1
   - name: 
